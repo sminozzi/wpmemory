@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Memory\n"
+"POT-Creation-Date: 2019-06-16 15:17+0100\n"
+"PO-Revision-Date: 2019-06-16 15:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: Bill\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wpmemory.php:53
+msgid "Current memory WordPress Limit"
+msgstr ""
+
+#: wpmemory.php:63
+msgid ""
+"Run your site with High Memory Usage, can result in behaving slowly, or "
+"pages fail to load, you get random white screens of death or 500 internal "
+"server error. Basically, the more content, features and plugins you add to "
+"your site, the bigger your memory limit has to be. Increase the WP Memory "
+"Limit is a standard practice in WordPress. You can manually increase memory "
+"limit in WordPress by editing the wp-config.php file. You can find "
+"instructions in the official WordPress documentation (Increasing memory "
+"allocated to PHP). Just click the link below: "
+msgstr ""
+
+#: wpmemory.php:64
+msgid "WordPress Help Page"
+msgstr ""
+
+#: wpmemory.php:70
+msgid "Pass"
+msgstr ""
+
+#: wpmemory.php:76
+msgid "WP Memory Test"
+msgstr ""
+
+#: wpmemory.php:95 wpmemory.php:104
+msgid "Memory Usage"
+msgstr ""
+
+#: wpmemory.php:107
+msgid "Memory Usage information"
+msgstr ""
+
+#: wpmemory.php:129
+msgid "Could not activate plugin: PHP version error"
+msgstr ""
+
+#: wpmemory.php:129
+msgid "You are using PHP version"
+msgstr ""
+
+#: wpmemory.php:129
+msgid "This plugin has been tested with PHP versions 5.3 and greater."
+msgstr ""
+
+#: wpmemory.php:129
+msgid ""
+"WordPress itself <a href=\"https://wordpress.org/about/requirements/\" "
+"target=\"_blank\">recommends using PHP version 7 or greater</a>. Please "
+"upgrade your PHP version or contact your Server administrator."
+msgstr ""
+
+#: wpmemory.php:139
+msgid "Could not activate plugin: WordPress need be 5.2 or bigger."
+msgstr ""
+
+#: wpmemory.php:139
+msgid "Please, Update WordPress to Version 5.2 or bigger to use this plugin."
+msgstr ""
