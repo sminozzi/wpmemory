@@ -11,6 +11,9 @@ Check For High Memory Usage and include result in the Site Health Page.
 
 == Description ==
 Check For High Memory Usage and include result in the Site Health Page.
+Demo: http://WPMemory.com
+
+
 
 Very easy to install and manage. Just go to your plugin page to activate /deactivate. No dashboard page.
 
