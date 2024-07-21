@@ -1,4 +1,4 @@
-# Memory Usage, Memory Limit, PHP and Server Memory Health Check and Provide Suggestions #
+# wordPress Memory Usage, Memory Limit, PHP and Server Memory Health Check and Provide Suggestions Plugin #
 Contributors: sminozzi
 Tags: memory limit, memory usage, memory exhausted, memory increase, ram
 Requires at least: 5.2
